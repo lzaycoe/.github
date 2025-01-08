@@ -19,14 +19,14 @@ We are students from FPT University, taking two courses: WDP301 and PRM392.
 
 ### 🌐 WDP301 - Web Development Project
 
-| #   | Project Name     | Description          | GitHub Repository                                     |
-| --- | ---------------- | -------------------- | ----------------------------------------------------- |
-| 1   | brainbox-backend | Backend for BrainBox | [Repository](https://github/lzaycoe/brainbox-backend) |
-| 2   | frontend         | Frontend for ...     | [Repository](https://github/lzaycoe/frontend)         |
-| 3   | deployment       | Deployment for ...   | [Repository](https://github/lzaycoe/deployment)       |
+| #   | Project Name     | Description          | GitHub Repository                                         |
+| --- | ---------------- | -------------------- | --------------------------------------------------------- |
+| 1   | brainbox-backend | Backend for BrainBox | [Repository](https://github.com/lzaycoe/brainbox-backend) |
+| 2   | frontend         | Frontend for ...     | [Repository](https://github.com/lzaycoe/frontend)         |
+| 3   | deployment       | Deployment for ...   | [Repository](https://github.com/lzaycoe/deployment)       |
 
 ### 📱 PRM392 - Mobile Programming
 
-| #   | Project Name | Description | GitHub Repository                            |
-| --- | ------------ | ----------- | -------------------------------------------- |
-| 1   | android      | Description | [Repository](https://github/lzaycoe/android) |
+| #   | Project Name | Description | GitHub Repository                                |
+| --- | ------------ | ----------- | ------------------------------------------------ |
+| 1   | android      | Description | [Repository](https://github.com/lzaycoe/android) |
