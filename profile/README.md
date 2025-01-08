@@ -1,28 +1,32 @@
 # 🦥 Lazy Code
 
-## About us
+## 🌟 About us
 
 We are students from FPT University, taking two courses: WDP301 and PRM392.
 
-## Team members
+## 👥 Team members
 
-| #   | Name             | Student ID |
-| --- | ---------------- | ---------- |
-| 1   | Lê Minh Vương    | QE170148   |
-| 2   | Đinh Quốc Chương | QE170097   |
-| 3   | Hồ Trọng Nghĩa   | QE170173   |
-| 4   | Nguyễn Thị Thúy  | QE170033   |
-| 5   | Lâm Mỹ Linh      | QE170023   |
-| 6   | Lê Mạnh Hùng     | QE170213   |
+| #   | Name             | Student ID | GitHub Profile                                    |
+| --- | ---------------- | ---------- | ------------------------------------------------- |
+| 1   | Lê Minh Vương    | QE170148   | [hardingadonis](https://github.com/hardingadonis) |
+| 2   | Đinh Quốc Chương | QE170097   | [bakaqc](https://github.com/bakaqc)               |
+| 3   | Hồ Trọng Nghĩa   | QE170173   | [htnghia1423](https://github.com/htnghia1423)     |
+| 4   | Nguyễn Thị Thúy  | QE170033   | [yuhtnguyen](https://github.com/yuhtnguyen)       |
+| 5   | Lâm Mỹ Linh      | QE170023   | [linhlm0210](https://github.com/linhlm0210)       |
+| 6   | Lê Mạnh Hùng     | QE170213   | [punhe](https://github.com/punhe)                 |
 
-## Projects
+## 🚀 Projects
 
-### WDP301 - Web Development Project
+### 🌐 WDP301 - Web Development Project
 
-| #   | Project Name | Description | GitHub |
-| --- | ------------ | ----------- | ------ |
+| #   | Project Name | Description        | GitHub                                   |
+| --- | ------------ | ------------------ | ---------------------------------------- |
+| 1   | backend      | Backend for ...    | [link](http://github/lzaycoe/backend)    |
+| 2   | frontend     | Frontend for ...   | [link](http://github/lzaycoe/frontend)   |
+| 3   | deployment   | Deployment for ... | [link](http://github/lzaycoe/deployment) |
 
-### PRM392 - Mobile Programming
+### 📱 PRM392 - Mobile Programming
 
-| #   | Project Name | Description | GitHub |
-| --- | ------------ | ----------- | ------ |
+| #   | Project Name | Description | GitHub                                |
+| --- | ------------ | ----------- | ------------------------------------- |
+| 1   | android      | Description | [link](http://github/lzaycoe/android) |
