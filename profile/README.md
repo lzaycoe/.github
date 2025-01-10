@@ -30,3 +30,4 @@ We are students from FPT University, taking two courses: WDP301 and PRM392.
 | #   | Project Name | Description | GitHub Repository                                |
 | --- | ------------ | ----------- | ------------------------------------------------ |
 | 1   | android      | Description | [Repository](https://github.com/lzaycoe/android) |
+| 2   | Code Demo    | Code demo for each slot | [Repository](https://github.com/lzaycoe/prm392-demo) |
