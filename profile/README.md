@@ -19,10 +19,11 @@ We are students from FPT University, taking two courses: WDP301 and PRM392.
 
 ### 🌐 WDP301 - Web Development Project
 
-| #   | Project Name      | Description           | GitHub Repository                                          |
-| --- | ----------------- | --------------------- | ---------------------------------------------------------- |
-| 1   | brainbox-backend  | Backend for BrainBox  | [Repository](https://github.com/lzaycoe/brainbox-backend)  |
-| 2   | brainbox-frontend | Frontend for BrainBox | [Repository](https://github.com/lzaycoe/brainbox-frontend) |
+| #   | Project Name        | Description             | GitHub Repository                                            |
+| --- | ------------------- | ----------------------- | ------------------------------------------------------------ |
+| 1   | brainbox-backend    | Backend for BrainBox    | [Repository](https://github.com/lzaycoe/brainbox-backend)    |
+| 2   | brainbox-frontend   | Frontend for BrainBox   | [Repository](https://github.com/lzaycoe/brainbox-frontend)   |
+| 2   | brainbox-deployment | Deployment for BrainBox | [Repository](https://github.com/lzaycoe/brainbox-deployment) |
 
 ### 📱 PRM392 - Mobile Programming
 
