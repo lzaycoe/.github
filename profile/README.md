@@ -28,7 +28,7 @@ We are students from FPT University, taking two courses: WDP301 and PRM392.
 
 ### 📱 PRM392 - Mobile Programming
 
-| #   | Project Name | Description             | GitHub Repository                                    |
-| --- | ------------ | ----------------------- | ---------------------------------------------------- |
-| 1   | android      | Description             | [Repository](https://github.com/lzaycoe/android)     |
-| 2   | prm392-demo  | Code demo for each slot | [Repository](https://github.com/lzaycoe/prm392-demo) |
+| #   | Project Name | Description                              | GitHub Repository                                    |
+| --- | ------------ | ---------------------------------------- | ---------------------------------------------------- |
+| 1   | zynema       | An Android application written by Kotlin | [Repository](https://github.com/lzaycoe/zynema)      |
+| 2   | prm392-demo  | Code demo for each slots                 | [Repository](https://github.com/lzaycoe/prm392-demo) |
