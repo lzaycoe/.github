@@ -1,5 +1,11 @@
 # 🦥 Lazy Code
 
+## 📢 Advertisement
+
+<img src="https://raw.githubusercontent.com/fptqnk17/.github/refs/heads/main/images/banner-bao-thu.png" alt="Advertisement" />
+
+---
+
 ## 🌟 About us
 
 We are students from FPT University, taking two courses: WDP301 and PRM392.
